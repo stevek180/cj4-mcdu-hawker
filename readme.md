@@ -22,6 +22,7 @@ The "CJ4" name is increasingly inaccurate, as the mod now supports
 | FFX P180 2.0.3 (2020 version) |   ✅    |  ❌   |
 | FFX P180 2.1.9 (2024 version) |  N/A   |   ✅    |
 | FFX C750 1.3.9                |   ✅    |   ✅    |
+| FFX Hawker 800XP              |   ??    |   ✅    |
 
 ## Installation
 * Remove any previous versions of the this mod
