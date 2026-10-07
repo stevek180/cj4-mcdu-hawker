@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.11.0
+* Support FFX Hawker 800XP 2024 version
+
+
 ## 0.10.0
 * Support FFX P180 2024 version
 * Added new plugin for the P180 in 2020
