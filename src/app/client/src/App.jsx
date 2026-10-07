@@ -49,7 +49,7 @@ function App() {
         if (!modelName) {
             // aicraft name is the "ATC MODEL" and can have some bizarre strings.
             // Convert this into a shorter model name to use in the styles
-            if (aircraftName.includes("C25C")) {
+            if (aircraftName.includes("C25C") || aircraftName.includes("H25B")) {
                 modelName = "cj4";
             } else if (aircraftName.includes("C90") || aircraftName.includes("P180")) {
                 modelName = "c90";
