@@ -1,6 +1,10 @@
 # MCDU Web application for Microsoft Flight Simulator
 
 ## About
+**This is a fork of the original Demented Monkey mod, with a small update to
+allow it to work with the FFX Hawker.  I would recommend watching the Demented
+Monkey repo to see if it gets updated, then start using that instead**
+
 This project contains an application that will allow you to access
 the MCDU of the CJ4 from a web browser on a tablet
 or another PC.
